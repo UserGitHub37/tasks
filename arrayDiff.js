@@ -27,6 +27,6 @@ console.log(arrayDiff([1,2,3], [1,2]), [3], "a was [1,2,3], b was [1,2]")
 
 //! Best Practice
 
-function array_diff(a, b) {
-  return a.filter(e => !b.includes(e));
-}
+// function array_diff(a, b) {
+//   return a.filter(e => !b.includes(e));
+// }
